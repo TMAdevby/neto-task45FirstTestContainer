@@ -3,9 +3,9 @@ package ru.netology.netotask45firsttestcontainer;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import ru.netology.netotask42springbootfirst.interf.SystemProfile;
-import ru.netology.netotask42springbootfirst.realization.DevProfile;
-import ru.netology.netotask42springbootfirst.realization.ProductionProfile;
+import ru.netology.netotask45firsttestcontainer.interf.SystemProfile;
+import ru.netology.netotask45firsttestcontainer.realization.DevProfile;
+import ru.netology.netotask45firsttestcontainer.realization.ProductionProfile;
 
 @Configuration
 public class JavaConfig {

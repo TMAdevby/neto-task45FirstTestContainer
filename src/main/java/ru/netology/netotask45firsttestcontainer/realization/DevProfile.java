@@ -1,6 +1,6 @@
 package ru.netology.netotask45firsttestcontainer.realization;
 
-import ru.netology.netotask42springbootfirst.interf.SystemProfile;
+import ru.netology.netotask45firsttestcontainer.interf.SystemProfile;
 
 public class DevProfile implements SystemProfile {
     @Override
